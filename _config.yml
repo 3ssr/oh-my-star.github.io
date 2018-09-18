@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 avatar:             'assets/img/avatar.jpeg'
-background:         'assets/img/bg.jpg'
+background:         'assets/img/bg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
 url:                https://oh-my-star.github.io/
