@@ -1,6 +1,6 @@
 # Site
-title:              月亮先生
-bio:                '昨夜星辰恰似你'
+title:              Mr. Moon
+bio:                '嘉木风可催，相思不可断'
 description:        "记录打怪升级之路"
 reading_time:       true
 words_per_minute:   200
@@ -45,7 +45,7 @@ github-url:         oh-my-star
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-# instagram:          username
+instagram:          iamryanshaw24
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -56,7 +56,7 @@ github-url:         oh-my-star
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+weibo:              2252351302
 #flickr:            username
 #codepen:           username
 #keybase:           username

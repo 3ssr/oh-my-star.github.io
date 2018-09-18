@@ -48,8 +48,11 @@ h3.title a {
 		padding: 10px 18px;
 		margin: 0 10px;
 		text-decoration: none;
-		background: $white;
+		background: $color_alabaster;
 		color: $color_shark;
+		border: 1px solid;
+		border-color: rgba(229,230,233,0.5) rgba(223,224,228,0.5) #d0d1d5;
+
 		a {
 			@include font-rem(20);
 			text-decoration: none;
